@@ -3,7 +3,7 @@
 #!openUrl = 
 #!author = 可莉🅥
 #!homepage = https://github.com/SugarMalt/networkTools
-#!icon = https://github.com/SugarMalt/networkTools/blob/main/icon/Google.png
+#!icon = https://raw.githubusercontent.com/SugarMalt/networkTools/main/icon/Google.png
 
 [Rewrite]
 ^https?:\/\/(www.)?(g|google)\.(cn|com\.hk) 302 https://www.google.com
